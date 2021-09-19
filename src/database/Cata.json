@@ -1,0 +1,126 @@
+{
+    "sanpham": [{
+            "id": 1,
+            "name": "Chậu Kính Búp Măng",
+            "price": 50000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/28/1/jpg/chau-kinh-bup-mang.jpg",
+            "catalog": "sanpham",
+            "type":"chaucay"
+        },
+        {
+            "id": 2,
+            "name": "Chậu cây mini",
+            "price": 30000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/32/1/jpg/chau-cay-mini.jpg",
+            "catalog": "sanpham",
+              "type":"chaucay"
+        },
+        {
+            "id": 3,
+            "name": "Chậu Kính Hình Bút Chì",
+            "price": 100000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/25/1/jpg/chau-kinh-hinh-but-chi.jpg",
+            "catalog": "sanpham",
+              "type":"chaucay"
+        },
+        {
+            "id": 4,
+            "name": "Cặp đôi người gỗ",
+            "price": 40000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/30/1/jpg/cap-doi-nguoi-go.jpg",
+            "catalog": "sanpham",
+            "type":"trangtri"
+        },
+        {
+            "id": 5,
+            "name": "Set 4 cún",
+            "price": 30000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/29/1/jpg/set-4-cun.jpg",
+            "catalog": "sanpham",
+               "type":"trangtri"
+        },
+        {
+            "id": 6,
+            "name": "Chậu Kính Vuông – Lá May Mắn",
+            "price": 150000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/21/1/jpg/chau-kinh-vuong-la-may-man.jpg",
+            "catalog": "sanpham",
+              "type":"chaucay"
+        },
+        {
+            "id": 7,
+            "name": "Chậu Kính Đa Giác Dẹt – Sen Đá",
+            "price": 200000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/26/1/jpg/chau-kinh-da-giac-det-sen-da.jpg",
+            "catalog": "sanpham",
+              "type":"chaucay"
+        },
+        {
+            "id": 8,
+            "name": "Chậu Kính Nụ Hoa",
+            "price": 300000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/23/1/jpg/chau-kinh-nu-hoa.jpg",
+            "catalog": "sanpham",
+              "type":"chaucay"
+        }
+
+    ],
+    "chaucay": [{
+            "id": 10,
+            "name": "Chậu Cá Sấu",
+            "price": 10000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/12/1/jpg/chau-ca-sau.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 11,
+            "name": "Chậu Khủng Long",
+            "price": 20000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/11/1/jpg/chau-khung-long.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 12,
+            "name": "Chậu Corgi Bay",
+            "price": 22000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/10/1/jpg/chau-corgi-bay.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 13,
+            "name": "Chậu Hà Mã Bay",
+            "price": 25000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/9/1/jpg/chau-ha-ma-bay.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 14,
+            "name": "Chậu Husky",
+            "price": 30000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/5/1/jpg/chau-husky.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 15,
+            "name": "Chậu Hươu Bay",
+            "price": 23000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/8/1/jpg/chau-huou-bay.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 16,
+            "name": "Chậu gấu trúc",
+            "price": 20000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/4/1/jpg/chau-gau-truc.jpg",
+            "catalog": "chaucay"
+        },
+        {
+            "id": 17,
+            "name": "Chậu Corgi ôm bình",
+            "price": 20000,
+            "img": "http://twtg55.webmienphi.vn/files/sanpham/2/1/jpg/chau-corgi-om-binh.jpg",
+            "catalog": "chaucay"
+        }
+    ]
+    
+}

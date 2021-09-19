@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* open header */
+
+.col-sm-4 ul li{
+  list-style: none;
+  margin-right: 20px;
+}
+
+.menu{
+  margin-top: 20px;
+  text-decoration: none;
+  color: black;
+  
+}
+.menu ul {
+  display: flex;
+  
+}
+.menu ul a{
+  margin-right: 20px;
+}
+.cart{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.cart .icon{
+  margin-right: 10px;
+}
+.logo{
+  margin-left: 100px;
+}
+
+
+/* end header */
+/* open main */
+h3{text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.sanpham{
+   display: grid;
+   grid-column-gap: 50px;
+   grid-template-columns: auto auto auto auto;
+}
+
+.sp1{
+  text-align: center;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.sp1 img{
+  width: 100%;
+}
+.chaucay{
+   display: grid;
+   grid-column-gap: 10px;
+   grid-template-columns: auto auto auto auto;
+}
+.spchaucay img{width: 100%;}
+.mainslide{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+ .namesp {
+  text-align: center;
+  color: black;
+}
+.giasp{
+  text-align: center;
+}
+.button-main{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.button-main button{
+  margin-right: 5px;
+}
+/* end main */
+/* open footer */
+.footer{
+  margin-top: 20px;
+   display: grid;
+   grid-column-gap: 50px;
+   grid-template-columns: auto auto;
+   background: black;
+   color: white;
+}
+.news{
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.infor{
+  margin-top: 50px;
+}
+/* end footer */
+/* sanpham */
+.chitiet{
+  display: flex;
+  margin-top: 50px;
+
+}
+.chitiet-img{
+  margin-right: 50px;
+ 
+}
+.chitiet-img img{
+  width: 100%;
+ 
+}
+.chitiet .chitiet-thongtin{
+  margin-top: 200px;
+}
+/* end */
+/* bao cao */
+.baocao-tieude{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.baocao-noidung{
+  margin-bottom: 50px;
+}
+/* end bao cao */
+/* anh api */
+section {
+  height: auto;
+}
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.wrapper-img{
+  margin: 10px auto;
+  height: 150px;
+  width: 200px;
+}
+
+.wrapper-img img {
+  width: 100%;
+}
+/*  */
+
+.set-height{
+  height: 600px;
+}
